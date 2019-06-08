@@ -1,0 +1,149 @@
+
+/***************************** Home Page ***********************/
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: #444 dotted 1px;
+}
+
+/* Showcase */
+#showcase {
+  height: 400px;
+}
+
+#showcase .showcase-content h1 {  
+  font-size: 34px;
+}
+
+#showcase .showcase-content {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+/* Home Info */
+#home-info {
+  height: 400px;
+}
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  padding: 30px;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+}
+
+#home-info .info-content p {
+  padding-bottom: 10px;
+}  
+
+/* Boxes */
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* Follow US */
+.follow_us {
+  float: none;
+  width: 100%;
+}
+
+.follow_icons {
+  float: none;
+  display: inline-block;
+  width: 100%;
+  border: 4px solid #f7c08a;
+}
+
+.follow_icons li {
+  padding: 14px;
+}
+
+.reach_out {
+  float: none;
+  width: 100%
+}
+
+/***************************** About Page ***********************/
+#about-info .info-right, #about-info .info-left {
+  float: none;
+  width: 100%;
+}
+
+#about-info .info-right {
+  margin-top: 30px;
+}
+
+.l-heading {
+  text-align: center;
+}
+
+.l-heading span {
+  font-size: 32px;
+}
+
+/***************************** History Page ***********************/
+#hotel_history {
+  padding-top: 30px;
+  height: 100%;
+}
+
+#hotel_history h1 {
+  font-size: 28px;
+}
+h1.l-heading.time_line {
+  font-size: 24px;
+  padding-top: 10px;
+}
+
+.timeline_container span.text-primary {
+  font-size: 24px;
+}
+
+table {
+  margin: 0 14px;
+}
+
+div.order_list {
+  text-align: center;
+  width: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.order_list p {
+  padding: 20px 20px 5px 20px;
+  width: 400px;
+  margin-left: -5px;
+}
+
+div.order_list ol {
+  margin-left: 130px;
+}
+
+div.order_list ol li {
+  width: max-content;
+}
+
+/***************************** Contact Page ***********************/
+#contact-info .box {
+  border-bottom: #444 dotted 1px;
+}
+
+#contact-form p.underline {
+  font-size: 13px;
+}
